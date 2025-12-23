@@ -1,0 +1,1 @@
+{"ast":null,"code":"// Polyfills for the application. Keep minimal for Angular 17.\n/** Zone JS is already imported in main when needed. Additional polyfills can be added here. */","map":null,"metadata":{},"sourceType":"script","externalDependencies":[]}
